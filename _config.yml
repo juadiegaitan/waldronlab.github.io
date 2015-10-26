@@ -1,0 +1,12 @@
+# Site settings
+title: Waldron Lab
+email: waldronlab@googlegroups.com
+description: > # this means to ignore newlines until "baseurl:"
+    This website includes tips and resources for the Waldron lab. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.github.com/waldronlab" # the base hostname & protocol for your site
+github_username:  waldronlab
+
+# Build settings
+markdown: kramdown
+permalink: pretty
