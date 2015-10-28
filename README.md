@@ -6,11 +6,15 @@ permalink: /about/
 
 ### For the  Waldron Lab research website, please go to [http://waldronlab.org/](http://waldronlab.org/)
 
-### Team Members
+### Waldron Lab Members and Links
 
 - Levi Waldron, PhD. [<img src="/images/ghmark.png">](https://github.com/lwaldron)
 - Marcel Ramos, MPH [<img src="/images/ghmark.png">](https://github.com/LiNk-NY)[<img src="/images/twitter.png">](https://twitter.com/M2RUseR)
 - Lavanya Kannan, PhD. [<img src="/images/ghmark.png">](https://github.com/lavkan)
+
+Additional personnel: 
+
+[Full Member List](http://waldronlab.org/people/)
 
 ---
 
