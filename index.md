@@ -16,7 +16,7 @@ Please see the [About](/about/) for more information on how to post.
 *Note:* The markdown Cheat Sheet provided here is from the [assemble.io](http://assemble.io/docs/Cheatsheet-Markdown.html) website. 
 
 1. [Coursera as an online resource](/coursera/)
-2. [R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+2. [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 3. [Getting Help](/gethelp/)
 4. [Markdown Syntax](/mark/)
-
+5. [GitHub in RStudio](https://www.youtube.com/embed/uHYcDQDbMY8)
