@@ -1,4 +1,11 @@
+# site and cache files
 _site
 .sass-cache
+# Vim files
 *~
 *.swp
+# RStudio files
+.Rproj.user
+*.Rproj
+# Result files
+*.html
