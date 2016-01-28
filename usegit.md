@@ -29,7 +29,7 @@ There are additional resources for learning Git and GitHub from the Coursera cou
 * [Additional Resources][]
 
 [YouTube]: https://www.youtube.com
-[GitHub in RStudio]: https://www.youtube.com/embed/uHYcDQDbMY8
+[GitHub in RStudio]: https://youtu.be/uHYcDQDbMY8
 [TryGit]: http://try.github.io/
 [Data Scientist's Toolbox]: https://www.coursera.org/learn/data-scientists-tools
 [Additional Resources]: http://datasciencespecialization.github.io/toolbox/
