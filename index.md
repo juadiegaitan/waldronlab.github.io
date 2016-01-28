@@ -17,4 +17,4 @@ Please see the [About](/about/) for more information on how to post.
 2. [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 3. [Getting Help](/gethelp/)
 4. [Markdown Syntax](/mark/)
-5. [Resource for Learning GitHub](/github/)
+5. [Resources for Learning GitHub](/github/)

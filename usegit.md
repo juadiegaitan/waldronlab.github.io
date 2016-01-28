@@ -7,11 +7,11 @@ permalink: /github/
 
 Git is a popular and powerful tool for software development and reproducible research. 
 
-Learning `git` can be a bit of a challenge. 
+Learning `Git` can be a bit of a challenge. 
 
-There are several online tutorials that show you how to get started using `git`. 
+There are several online tutorials that show you how to get started using `Git`. 
 
-For a quick way to get started, have a look at the tutorial on YouTube: 
+For a quick way to get started, have a look at the tutorial on [YouTube](https://www.youtube.com): 
 
 * [GitHub in RStudio](https://www.youtube.com/embed/uHYcDQDbMY8)
 
