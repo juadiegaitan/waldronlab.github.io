@@ -9,3 +9,6 @@ _site
 *.Rproj
 # Result files
 *.html
+
+# R History file
+.Rhistory

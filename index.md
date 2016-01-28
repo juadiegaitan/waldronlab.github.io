@@ -13,8 +13,8 @@ The Waldron Lab Research Website is also available at this [link](http://waldron
 
 Please see the [About](/about/) for more information on how to post. 
 
-1. [Coursera as an online resource](/coursera/)
-2. [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
-3. [Getting Help](/gethelp/)
-4. [Markdown Syntax](/mark/)
-5. [Resources for Learning GitHub](/github/)
+1. [Coursera MOOCs](/coursera/)
+2. [Learning R](/learnr/)
+3. [Learning GitHub](/github/)
+4. [Using Markdown Syntax](/mark/)
+5. [Getting Help](/gethelp/)

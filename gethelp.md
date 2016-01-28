@@ -11,11 +11,11 @@ to the person answering your question.
 
 There are several resources for tips on how to go about doing this. 
 
-1. [Waldron Lab Resources][] folder
+1. [Waldron Lab Resources][] folder*
 2. [R-Project][] website 
 
 
-*Note:* This folder contains material from Coursera's [R Programming][] website. 
+**Note:* This folder contains material from Coursera's [R Programming][] website. 
 
 [Waldron Lab Resources]: http://tinyurl.com/waldronlabfolder
 [R Programming]: https://www.coursera.org/course/rprog 
