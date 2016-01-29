@@ -20,7 +20,7 @@ You can also try the CodeSchool tutorial from GitHub:
 * [TryGit][]
 
 On Coursera, the Data Scientist's Toolbox is also an excellent way to get 
-started using `git` and GitHub. 
+started using `Git` and [GitHub](https://www.github.com), the web-based hosting service.
 
 * [Data Scientist's Toolbox][]
 
