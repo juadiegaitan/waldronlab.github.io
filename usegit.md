@@ -31,6 +31,12 @@ started using `Git` and [GitHub](https://www.github.com), the web-based hosting 
 
 * [Data Scientist's Toolbox][]
 
+### RStudio Webinars
+
+RStudio posts webinars on several topics including writing code, debugging, package writing, projects and using Github with RStudio. 
+
+* [RStudio Webinars][]
+
 ### Additional Resources 
 
 There are additional resources for learning Git and GitHub from the Coursera course: 
@@ -43,3 +49,5 @@ There are additional resources for learning Git and GitHub from the Coursera cou
 [Learn Git]: https://www.codecademy.com/learn/learn-git
 [Data Scientist's Toolbox]: https://www.coursera.org/learn/data-scientists-tools
 [Additional Resources]: http://datasciencespecialization.github.io/toolbox/
+[RStudio Webinars]: https://www.rstudio.com/resources/webinars/
+
