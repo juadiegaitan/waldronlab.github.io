@@ -17,4 +17,5 @@ Please see the [About](/about/) for more information on how to post.
 2. [Learning R](/learnr/)
 3. [Learning GitHub](/github/)
 4. [Using Markdown Syntax](/mark/)
-5. [Getting Help](/gethelp/)
+5. [Textbooks](/texts/)
+6. [Getting Help](/gethelp/)
