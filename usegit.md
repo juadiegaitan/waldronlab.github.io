@@ -7,13 +7,15 @@ permalink: /github/
 
 Git is a popular and powerful tool for software development and reproducible research. 
 
-Learning `Git` can be a bit of a challenge. 
+Learning `Git` can be a bit of a challenge (thank you XKCD): 
 
-There are several online tutorials that show you how to get started using `Git`. 
+![Github comic][]
+
+Fortunately, there are good online tutorials that show you how to get started using `Git`. Even for the (majority of?) people who use it like in this comic, it's still pretty useful.  
 
 ### YouTube video 
 
-For a quick way to get started, have a look at the tutorial on [YouTube][]:
+For a quick way to get started using Github from within RStudio, here is a tutorial on YouTube:
 
 * [GitHub in RStudio][]
 
@@ -43,7 +45,7 @@ There are additional resources for learning Git and GitHub from the Coursera cou
 
 * [Additional Resources][]
 
-[YouTube]: https://www.youtube.com
+[Github comic]: http://imgs.xkcd.com/comics/git.png
 [GitHub in RStudio]: https://youtu.be/uHYcDQDbMY8
 [TryGit]: http://try.github.io/
 [Learn Git]: https://www.codecademy.com/learn/learn-git
