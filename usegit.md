@@ -39,11 +39,18 @@ RStudio posts webinars on several topics including writing code, debugging, pack
 
 * [RStudio Webinars][]
 
+### Altassian Website
+
+The Altassian website provides several pages of tutorials for using git and its commands. Their diagrams are very useful!
+
+* [Altassian Git Tutorials][]
+
 ### Additional Resources 
 
 There are additional resources for learning Git and GitHub from the Coursera course: 
 
 * [Additional Resources][]
+
 
 [Github comic]: http://imgs.xkcd.com/comics/git.png
 [GitHub in RStudio]: https://youtu.be/uHYcDQDbMY8
@@ -52,4 +59,4 @@ There are additional resources for learning Git and GitHub from the Coursera cou
 [Data Scientist's Toolbox]: https://www.coursera.org/learn/data-scientists-tools
 [Additional Resources]: http://datasciencespecialization.github.io/toolbox/
 [RStudio Webinars]: https://www.rstudio.com/resources/webinars/
-
+[Altassian Git Tutorials]: https://www.atlassian.com/git/tutorials/
