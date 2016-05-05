@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Waldron Lab</title>
+		<description>Waldron Lab Research Website</description>
+		<link>/</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Coursera</title>
+				<description>&lt;p&gt;&lt;a href=&quot;https://www.coursera.org&quot; target=&quot;_blank&quot;&gt;Coursera&lt;/a&gt; is an online platform for learning.&lt;/p&gt;
+
+&lt;p&gt;The courses are free to sign up and should be accessed via direct link or from the search function on the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; You do &lt;strong&gt;not&lt;/strong&gt; have to complete the course although it is a &lt;strong&gt;good idea&lt;/strong&gt; to have the certificate of completion.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.coursera.org/specializations/jhudatascience&quot; target=&quot;_blank&quot;&gt;DataScience Specialization&lt;/a&gt; from &lt;a href=&quot;https://www.jhu.edu/&quot; target=&quot;_blank&quot;&gt;Johns Hopkins University&lt;/a&gt; is a great set of courses that can be
+taken to enhance your skills working with and interpreting data.&lt;/p&gt;
+
+&lt;p&gt;Particularly, the &lt;a href=&quot;https://www.coursera.org/course/rprog&quot; target=&quot;_blank&quot;&gt;R Programming&lt;/a&gt; course is one of the easier ways to getting started using R.
+Please see the direct link to the course.&lt;/p&gt;
+
+&lt;p&gt;The DataScience Specialization team also has a dedicated &lt;a href=&quot;http://datasciencespecialization.github.io/&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt; (much like this one) to provide useful
+resources and links.&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 16 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/coursera</link>
+				<guid isPermaLink="true">/coursera</guid>
+			</item>
+		
+			<item>
+				<title>Learning R</title>
+				<description>&lt;p&gt;Aside from Coursera resources, there are several websites that provide
+tutorials for learning the R statistical programming language.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tryr.codeschool.com/&quot; target=&quot;_blank&quot;&gt;TryR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.datacamp.com/courses/&quot; target=&quot;_blank&quot;&gt;DataCamp&lt;/a&gt;*&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rstudio.com/resources/cheatsheets/&quot; target=&quot;_blank&quot;&gt;RStudio Cheatsheets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://swirlstats.com/students.html&quot; target=&quot;_blank&quot;&gt;Swirl Website &amp;amp; Package&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.statmethods.net/&quot; target=&quot;_blank&quot;&gt;Quick-R Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ats.ucla.edu/stat/r/&quot; target=&quot;_blank&quot;&gt;UCLA Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hnm.stat.cmu.edu/2014-06%20UVA%20WORKSHOP/00%20PreReads/RTutorial-Level0.pdf&quot; target=&quot;_blank&quot;&gt;CMU Zero-level Tutorial (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*Some websites like DataCamp have a paywall for more advanced courses.&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 15 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/learning-r</link>
+				<guid isPermaLink="true">/learning-r</guid>
+			</item>
+		
+			<item>
+				<title>Using Github</title>
+				<description>&lt;p&gt;Git is a popular and powerful tool for software development and reproducible research.&lt;/p&gt;
+
+&lt;p&gt;Learning &lt;code class=&quot;highlighter-rouge&quot;&gt;Git&lt;/code&gt; can be a bit of a challenge (thank you XKCD):&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://imgs.xkcd.com/comics/git.png&quot; alt=&quot;Github comic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fortunately, there are good online tutorials that show you how to get started using &lt;code class=&quot;highlighter-rouge&quot;&gt;Git&lt;/code&gt;. Even for the (majority of?) people who use it like in this comic, it’s still pretty useful.&lt;/p&gt;
+
+&lt;h3 id=&quot;youtube-video&quot;&gt;YouTube video&lt;/h3&gt;
+
+&lt;p&gt;For a quick way to get started using Github from within RStudio, here is a tutorial on YouTube:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/uHYcDQDbMY8&quot; target=&quot;_blank&quot;&gt;GitHub in RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;interactive-tutorials&quot;&gt;Interactive tutorials&lt;/h3&gt;
+
+&lt;p&gt;For hands-on tutorials on &lt;code class=&quot;highlighter-rouge&quot;&gt;Git&lt;/code&gt;, you can check out the GitHub-CodeSchool and Codecademy tutorials below:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://try.github.io/&quot; target=&quot;_blank&quot;&gt;TryGit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.codecademy.com/learn/learn-git&quot; target=&quot;_blank&quot;&gt;Learn Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mooc-format&quot;&gt;MOOC Format&lt;/h3&gt;
+
+&lt;p&gt;On Coursera, the Data Scientist’s Toolbox is also an excellent way to get
+started using &lt;code class=&quot;highlighter-rouge&quot;&gt;Git&lt;/code&gt; and &lt;a href=&quot;https://www.github.com&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt;, the web-based hosting service.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/data-scientists-tools&quot; target=&quot;_blank&quot;&gt;Data Scientist’s Toolbox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;rstudio-webinars&quot;&gt;RStudio Webinars&lt;/h3&gt;
+
+&lt;p&gt;RStudio posts webinars on several topics including writing code, debugging, package writing, projects and using Github with RStudio.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rstudio.com/resources/webinars/&quot; target=&quot;_blank&quot;&gt;RStudio Webinars&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;altassian-website&quot;&gt;Altassian Website&lt;/h3&gt;
+
+&lt;p&gt;The Altassian website provides several pages of tutorials for using git and its commands. Their diagrams are very useful!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.atlassian.com/git/tutorials/&quot; target=&quot;_blank&quot;&gt;Altassian Git Tutorials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;additional-resources&quot;&gt;Additional Resources&lt;/h3&gt;
+
+&lt;p&gt;There are additional resources for learning Git and GitHub from the Coursera course:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://datasciencespecialization.github.io/toolbox/&quot; target=&quot;_blank&quot;&gt;Additional Resources&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<pubDate>Thu, 14 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/using-github</link>
+				<guid isPermaLink="true">/using-github</guid>
+			</item>
+		
+			<item>
+				<title>Using Markdown</title>
+				<description>&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; The markdown Cheat Sheet provided here is from the &lt;a href=&quot;http://assemble.io/docs/Cheatsheet-Markdown.html&quot; target=&quot;_blank&quot;&gt;assemble.io&lt;/a&gt; website.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/jonschlinkert/5854601.js&quot;&gt;&lt;/script&gt;
+
+</description>
+				<pubDate>Wed, 13 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/using-markdown</link>
+				<guid isPermaLink="true">/using-markdown</guid>
+			</item>
+		
+			<item>
+				<title>Textbooks</title>
+				<description>&lt;p&gt;There are several publicly available textbook resources on data analysis and learning R written by remarkable researchers.&lt;/p&gt;
+
+&lt;h3 id=&quot;statistical-learning&quot;&gt;Statistical Learning&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www-bcf.usc.edu/~gareth/ISL/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;An Introduction to Statistical Learning&lt;/em&gt;&lt;/a&gt; by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani&lt;/p&gt;
+
+&lt;h3 id=&quot;the-leanpub-website&quot;&gt;The Leanpub website&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://leanpub.com&quot; target=&quot;_blank&quot;&gt;Leanpub&lt;/a&gt; offers various textbooks for free or for a small donation&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Data Analysis for the Life Sciences&lt;/em&gt;&lt;/strong&gt; by Rafael Irizarry and Michael Love&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;R Programming for Data Science&lt;/em&gt;&lt;/strong&gt; by Roger D. Peng&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Exploratory Data Analysis with R&lt;/em&gt;&lt;/strong&gt; by Roger D. Peng&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;Statistical inference for data science&lt;/em&gt;&lt;/strong&gt; by Brian Caffo&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;em&gt;The Elements of Data Analytic Style&lt;/em&gt;&lt;/strong&gt; by Jeff Leek&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;graphing&quot;&gt;Graphing&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cookbook-r.com/Graphs/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;R Graphics Cookbook&lt;/em&gt;&lt;/a&gt; by Winston Chang&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hadley/ggplot2-book&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;ggplot2: Elegant Graphics for Data Analysis&lt;/em&gt;&lt;/a&gt;* by Hadley Wickham&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hadley-wickham&quot;&gt;Hadley Wickham&lt;/h3&gt;
+
+&lt;p&gt;Hadley Wickham the chief scientist at &lt;a href=&quot;https://rstudio.com/home&quot; target=&quot;_blank&quot;&gt;RStudio&lt;/a&gt; has contributed numerous packages to the R community. In addition to his &lt;em&gt;ggplot2&lt;/em&gt; textbook, he has written other resources for data science and advanced topics in R.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r4ds.had.co.nz/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;R for Data Science&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Advanced R&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;R Packages&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;*Book compilation required from GitHub. See the GitHub README on the repo.&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 12 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/textbooks</link>
+				<guid isPermaLink="true">/textbooks</guid>
+			</item>
+		
+			<item>
+				<title>Getting Help</title>
+				<description>&lt;p&gt;The key to asking questions that will elicit enthusiastic response
+depends on the ability to relay the &lt;strong&gt;minimal&lt;/strong&gt; and &lt;strong&gt;necessary&lt;/strong&gt; information
+to the person answering your question.&lt;/p&gt;
+
+&lt;p&gt;There are several resources for tips on how to go about doing this.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tinyurl.com/waldronlabfolder&quot; target=&quot;_blank&quot;&gt;Waldron Lab Resources&lt;/a&gt; folder*&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.r-project.org/posting-guide.html&quot; target=&quot;_blank&quot;&gt;R-Project&lt;/a&gt; website&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;*Note:&lt;/em&gt; This folder contains material from Coursera’s &lt;a href=&quot;https://www.coursera.org/course/rprog&quot; target=&quot;_blank&quot;&gt;R Programming&lt;/a&gt; website.&lt;/p&gt;
+
+</description>
+				<pubDate>Mon, 11 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/getting-help</link>
+				<guid isPermaLink="true">/getting-help</guid>
+			</item>
+		
+			<item>
+				<title>About</title>
+				<description>&lt;h2 id=&quot;waldron-lab-members-and-links&quot;&gt;Waldron Lab Members and Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;levi-waldron-phd-i-classfa-fa-github-icon-linkihttpsgithubcomlwaldrontargetblanki-classfa-fa-twitter--icon-linkihttpstwittercomleviwaldron1targetblank&quot;&gt;Levi Waldron, PhD. &lt;a href=&quot;https://github.com/lwaldron&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-github icon-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/LeviWaldron1&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-twitter  icon-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;marcel-ramos-mph-i-classfa-fa-github--icon-linkihttpsgithubcomlink-nytargetblanki-classfa-fa-twitter--icon-linkihttpstwittercomm2rusertargetblank&quot;&gt;Marcel Ramos, MPH &lt;a href=&quot;https://github.com/LiNk-NY&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-github  icon-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;https://twitter.com/M2RUseR&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-twitter  icon-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;lavanya-kannan-phd-i-classfa-fa-github--icon-linkihttpsgithubcomlavkantargetblank&quot;&gt;Lavanya Kannan, PhD. &lt;a href=&quot;https://github.com/lavkan&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-github  icon-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;
+    &lt;hr /&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;additional-personnel&quot;&gt;Additional Personnel&lt;/h2&gt;
+
+&lt;p&gt;A complete list of Waldron Lab members in available at &lt;a href=&quot;http://waldronlab.org/people/&quot; target=&quot;_blank&quot;&gt;http://waldronlab.org/people/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;modifying-the-index-page&quot;&gt;Modifying the index page&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The index content is mostly generated automatically&lt;/li&gt;
+  &lt;li&gt;The content appearing above the links can be modified using valid Markdown syntax&lt;/li&gt;
+  &lt;li&gt;To change the content modify the content of the capture block, as shown below&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;!-- THESE LINES MODIFY INDEX CONTENT --&amp;gt;
+&amp;lt;!-- THESE LINES MODIFY INDEX CONTENT --&amp;gt;
+{% capture index %}
+
+Write valid Markdown syntax here to modify the contents of the index
+
+{% endcapture %}
+&amp;lt;!-- THESE LINES MODIFY INDEX CONTENT --&amp;gt;
+&amp;lt;!-- THESE LINES MODIFY INDEX CONTENT --&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;adding-pages-to-this-website&quot;&gt;Adding pages to this website&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;First fork the &lt;a href=&quot;https://github.com/waldronlab/waldronlab.github.io/&quot; target=&quot;_blank&quot;&gt;waldronlab&lt;/a&gt; repository via git.&lt;/li&gt;
+  &lt;li&gt;Add a new Markdown file in the _posts directory, following filename conventions of the other files.&lt;/li&gt;
+  &lt;li&gt;Posts will be ordered by date and must include the apropriate “front matter” (see below).&lt;/li&gt;
+  &lt;li&gt;Push changes to your repository and create a pull request on github.com.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Please include “front matter” in each new markdown page as:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;layout: post
+title: PageTitle
+categories: [array, of, categories, here]
+tags: [array, of, tags, here]
+description: &quot;&quot;
+permalink: /pagetitle
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;Note:&lt;/em&gt; Please add target=”_blank” to links via this syntax for kramdown:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[Leanpub](https://leanpub.com){:target=&quot;_blank&quot;}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;For more information on how to setup your own &lt;a href=&quot;http://jekyllrb.com/&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt; powered GitHub.io site, please see this &lt;a href=&quot;http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html&quot; target=&quot;_blank&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To file an issue with the website, go to the &lt;a href=&quot;https://github.com/waldronlab/waldronlab.github.io/issues&quot; target=&quot;_blank&quot;&gt;github issue page&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 10 Apr 2016 00:00:00 -0400</pubDate>
+				<link>/about</link>
+				<guid isPermaLink="true">/about</guid>
+			</item>
+		
+	</channel>
+</rss>
