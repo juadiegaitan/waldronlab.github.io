@@ -1,46 +1,25 @@
----
-layout: page
-title: About
-permalink: /about/ 
----
+## Waldron Lab github.io Site
 
-### For the  Waldron Lab research website, please go to [http://waldronlab.org/](http://waldronlab.org/)
+This project uses the Dbyll theme for jekyll which is available [here](https://github.com/dbtek/dbyll).
 
-### Waldron Lab Members and Links
+### Features
+- Responsive layout.
+- Supports tags and categories.
+- Social profile and bio of author.
+- Bootstrap based.
+- Glyphicon and Font-Awesome Icons.
+- Pagination.
+- Syntax highlighting with Rouge.
+- Disqus comments.
 
-- Levi Waldron, PhD. [<img src="/images/ghmark.png">](https://github.com/lwaldron)
-- Marcel Ramos, MPH [<img src="/images/ghmark.png">](https://github.com/LiNk-NY)[<img src="/images/twitter.png">](https://twitter.com/M2RUseR)
-- Lavanya Kannan, PhD. [<img src="/images/ghmark.png">](https://github.com/lavkan)
+### Serving Locally
+- You need to have [ruby](https://www.ruby-lang.org/en/documentation/installation/) installed in your system.
+- Install bundler which helps in specifying and installing dependencies of any Ruby project. ```gem install bundler```
+- Go to the root of the repo and run this - ```bundle install```
+- Then - ```bundle exec jekyll serve```
 
-Additional personnel: 
+### Modifying Content
+- Extensive information on how to modify the site contents is available on the [about](https://waldronlab.github.io/about) page.
 
-[Full Member List](http://waldronlab.org/people/)
-
----
-
-### Adding pages to this website 
-
-1. First fork the [waldronlab][] repository via git. 
-2. Update the `index.md` file with your link. (e.g. `[mynewpage](/examplepagetopic/)`)
-3. Add a markdown file that is referenced by `index.md` with the apropriate "front matter" (see below). 
-4. Push changes to your repository and create a pull request on github.com. 
-
-*Note:* Please include "front matter" in each new markdown page as: 
-
-~~~~~~
----
-layout: page
-permalink: /examplepagetopic/
----
-~~~~~~
-
-For more information on how to setup your own [Jekyll][] powered GitHub.io site, please see this [website](http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html).
-
----
-
-To file an issue with the website, go to the [github issue page][].
-
-
-[waldronlab]: https://github.com/waldronlab/waldronlab.github.io/
-[github issue page]: https://github.com/waldronlab/waldronlab.github.io/issues
-[Jekyll]: http://jekyllrb.com/
+### License
+- This theme is used under the [MIT](http://opensource.org/licenses/MIT) license

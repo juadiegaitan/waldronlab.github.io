@@ -1,20 +1,22 @@
 ---
-layout: page
-permalink: /learnr/
+layout: post
+title: Learning R
+categories: [general]
+tags: [noneYet]
+description: ""
+permalink: /learning-r
 ---
 
-## Learn [<img src="/images/rlogo.png">](https://www.r-project.org/ "R Project Website")!
- 
 Aside from Coursera resources, there are several websites that provide
 tutorials for learning the R statistical programming language.
 
-- [TryR][]
-- [DataCamp][]*
-- [RStudio Cheatsheets][]
-- [Swirl Website & Package][]
-- [Quick-R Website][]
-- [UCLA Website][]
-- [CMU Zero-level Tutorial (PDF)][]
+- [TryR][]{:target="_blank"}
+- [DataCamp][]{:target="_blank"}*
+- [RStudio Cheatsheets][]{:target="_blank"}
+- [Swirl Website & Package][]{:target="_blank"}
+- [Quick-R Website][]{:target="_blank"}
+- [UCLA Website][]{:target="_blank"}
+- [CMU Zero-level Tutorial (PDF)][]{:target="_blank"}
 
 *Some websites like DataCamp have a paywall for more advanced courses.
 

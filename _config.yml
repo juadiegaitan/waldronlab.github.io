@@ -1,12 +1,39 @@
-# Site settings
-title: Waldron Lab
-email: waldronlab@googlegroups.com
-description: > # this means to ignore newlines until "baseurl:"
-    This website includes tips and resources for the Waldron lab. 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.github.com/waldronlab" # the base hostname & protocol for your site
-github_username:  waldronlab
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-# Build settings
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
 markdown: kramdown
-permalink: pretty
+#disqus: waldronlab
+#google_analytics: waldronlab
+title: Waldron Lab
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      title: Waldron Lab
+
+description: Waldron Lab Research Website
+author:
+  name: Waldron Lab
+  email: waldronlab@googlegroups.com
+  github: waldronlab
+  twitter: LeviWaldron1
+  #pinterest: waldronlab
+  linkedin: levi-waldron-a0755123
+  bio: Waldron Lab Research Website
+  email_md5: 4cbfb98446fe60d11e3110384d735a9d
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+gems:
+  - jekyll-paginate
