@@ -36,6 +36,12 @@ Hadley Wickham the chief scientist at [RStudio](https://rstudio.com/home){:targe
 - [_Advanced R_](http://adv-r.had.co.nz/){:target="_blank"}
 - [_R Packages_](http://r-pkgs.had.co.nz/){:target="_blank"}
 
+### Efficient R Programming
+
+Written by Colin Gillespie and Robin Lovelace, the **Efficient R Programming** textbook provides good reference for advanced topics in R.
+
+- [_Efficient R Programming_](https://csgillespie.github.io/efficientR/){:target="_blank"}
+
 *Book compilation required from GitHub. See the GitHub README on the repo.
 
 [_An Introduction to Statistical Learning_]: http://www-bcf.usc.edu/~gareth/ISL/
