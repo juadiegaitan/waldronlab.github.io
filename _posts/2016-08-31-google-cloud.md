@@ -7,6 +7,16 @@ description: ""
 permalink: /google-cloud
 ---
 
+# Table of Contents
+1. [Accessing the Cloud Shell](## Accessing the Cloud Shell)
+2. [Copying the Google Cloud image to your Compute Instance](## Copying the Google Cloud image to your Compute Instance)
+3. [Checking the status of the image](### Checking the status of the image)
+4. [Creating the Google Cloud Instance](## Creating the Google Cloud Instance)
+5. [Select a zone](### Select a zone)
+6. [Editing the Cloud Instance](### Editing the Cloud Instance)
+7. [Allow HTTP traffic](#### Allow HTTP traffic)
+8. [Running the Cloud Instance](## Running the Cloud Instance)
+
 ## Accessing the Cloud Shell
 
 Your first step would be to log in to [Google Cloud Platform](https://console.cloud.google.com)
