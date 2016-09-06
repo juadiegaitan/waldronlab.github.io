@@ -17,15 +17,15 @@ permalink: /google-cloud
 7. [Allow HTTP traffic](#httptraffic)
 8. [Running the Cloud Instance](#runcloud)
 
-## Accessing the Cloud Shell <a name="cloudshell"></a>
+<h2> Accessing the Cloud Shell <a name="cloudshell"></a> <img src="../assets/media/command_prompt.png" align="right"> </h2>
 
-Your first step would be to log in to [Google Cloud Platform](https://console.cloud.google.com)
+Your first step would be to log in to <a href="https://console.cloud.google.com" target="_blank">Google Cloud Platform</a>
 with your Google account (create one if you don't already have one).
 
 Once logged in, you will want to click on the `Activate Google Cloud Shell`
-icon on the top right of the page (which looks like: **[>_ ]**).
+icon on the top right of the page (which looks the icon)
 
-## Copying the Google Cloud image to your Compute Instance <a name="copyimage"></a>
+## <a name="copyimage"></a> Copying the Google Cloud image to your Compute Instance
 
 Enter the following command to create an image from the Google Cloud bucket  (it may take a few minutes):
 Here `biostats2` is the name of the image to be created.
@@ -38,7 +38,7 @@ ge.tar.gz
 The image file is about `1 GB` large and can take quite some time to transfer
 an create the image on your Cloud Platform.
 
-### Checking the status of the image <a name="statusimage"></a>
+### <a name="statusimage"></a>Checking the status of the image
 
 Once created, you can check to see if the image is ready for use with the command:
 
@@ -52,7 +52,7 @@ You can open the side menu on the Google Cloud Platform website and select `Imag
 
 You should see `status: READY` in the output
 
-## Creating the Google Cloud Instance <a name="createimage"></a>
+## <a name="createimage"></a> Creating the Google Cloud Instance
 
 Now you're ready to create a computing instance with the image:
 
@@ -64,7 +64,7 @@ gcloud compute instancees create bios2-instance --image biostats2
 
 You can create the instance by selecting the `biostats2` image from the list of images and selecting `Create Instance`.
 
-### Select a zone <a name="zone"></a>
+### <a name="zone"></a> Select a zone
 
 Select a zone in `us-east1` by entering the numeric choice (from 11 to 13)
 
@@ -72,14 +72,14 @@ Select a zone in `us-east1` by entering the numeric choice (from 11 to 13)
 
 You will be able to customize the image settings after clicking on `Create Instance`.
 
-### Editing the Cloud Instance <a name="editinstance"></a>
+### <a name="editinstance"></a> Editing the Cloud Instance
 
 In the web browser, select `VM instances` under the `Compute Engine` and find
 your `bios2-instance`.
 
 Click on `bios2-instance` and then `EDIT` the instance at the top menu.
 
-#### Allow HTTP traffic <a name="httptraffic"></a>
+#### <a name="httptraffic"></a> Allow HTTP traffic
 
 Select the square button under **Firewall** for `Allow HTTP traffic` and click
 `SAVE` at the bottom.
@@ -91,7 +91,7 @@ This option is also available if you are using the `Google Cloud Platform` websi
 
 Select `Create` to run your instance.
 
-## Running the Cloud Instance <a name="runcloud"></a>
+## <a name="runcloud"></a> Running the Cloud Instance
 
 Now that your instance is running, click on the IP address for your instance under the **External IP** section.
 
