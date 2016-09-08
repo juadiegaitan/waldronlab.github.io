@@ -22,6 +22,10 @@ permalink: /google-cloud
 Your first step would be to log in to <a href="https://console.cloud.google.com" target="_blank">Google Cloud Platform</a>
 with your Google account (create one if you don't already have one).
 
+**Note:** Make sure that you have the Compute Engine API enabled! You can do that by
+clicking on your `Dashboard` and selecting `Customize` and clicking the slider
+for the `Compute Engine`. (It may take a few minutes to be enabled)
+
 Once logged in, you will want to click on the `Activate Google Cloud Shell`
 icon on the top right of the page (which looks the icon)
 
