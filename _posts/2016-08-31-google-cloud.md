@@ -20,11 +20,13 @@ permalink: /google-cloud
 <h2> Accessing the Cloud Shell <a name="cloudshell"></a> <img src="../assets/media/command_prompt.png" align="right"> </h2>
 
 Your first step would be to log in to <a href="https://console.cloud.google.com" target="_blank">Google Cloud Platform</a>
-with your Google account (create one if you don't already have one).
+with your Google account (create one if you don't already have one). Sign up for a free
+trial (credit card required for verification only).
 
-**Note:** Make sure that you have the Compute Engine API enabled! You can do that by
+**Note:** Make sure that you have the Compute Engine API enabled! You would have
+to enable the Compute Engine by selecting the tour or you may be able to do it by
 clicking on your `Dashboard` and selecting `Customize` and clicking the slider
-for the `Compute Engine`. (It may take a few minutes to be enabled)
+for the `Compute Engine`. (It may take a couple minutes to be enabled)
 
 Once logged in, you will want to click on the `Activate Google Cloud Shell`
 icon on the top right of the page (which looks the icon)
