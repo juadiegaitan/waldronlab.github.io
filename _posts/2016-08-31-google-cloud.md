@@ -37,8 +37,7 @@ Enter the following command to create an image from the Google Cloud bucket  (it
 Here `biostats2` is the name of the image to be created.
 
 ```
-gcloud compute images create biostats2 --source-uri gs://cunysph-biostat/bios2-ima
-ge.tar.gz
+gcloud compute images create biostats2 --source-uri gs://cunysph-biostat/bios2-image.tar.gz
 ```
 
 The image file is about `1 GB` large and can take quite some time to transfer
