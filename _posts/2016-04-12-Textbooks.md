@@ -23,6 +23,7 @@ There are several publicly available textbook resources on data analysis and lea
 - **_Statistical inference for data science_** by Brian Caffo
 - **_The Elements of Data Analytic Style_** by Jeff Leek
 - **_Executive Data Science_** by Caffo, Peng, Leek
+- **_Mastering Software Development in R_** by Peng, Sean Kross, Brooke Anderson
 
 ### Graphing
 
